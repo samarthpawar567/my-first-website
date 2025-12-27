@@ -1,0 +1,37 @@
+body {
+  margin: 20px;
+}
+    
+h1{
+  color:green;
+  text-align:center;
+  background-color:lightyellow;
+  }
+h2{
+  color:red;
+  background-color:lightgreen;
+  text-align:center;
+  }
+
+
+.first{
+  color: purple;
+  background-color:lightgreen;
+  }
+
+.second{
+  color: purple;
+  background-color:lightgreen;
+  }
+
+ol{
+  color:blue;
+  }
+ul{
+  color:blue;
+  }
+
+#sam{
+  background-color: lightblue;
+  font-family: Arial;
+}
